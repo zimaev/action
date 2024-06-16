@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 16 13:35:21 GMT 2024","Sun Jun 16 13:35:21 GMT 2024","296","tests","test_login","","","","test_login_success[chromium-user-user]",""
+"passed","Sun Jun 16 13:35:21 GMT 2024","Sun Jun 16 13:35:21 GMT 2024","270","tests","test_login","","","","test_login_success[chromium-admin-admin]",""
+"passed","Sun Jun 16 13:35:20 GMT 2024","Sun Jun 16 13:35:21 GMT 2024","350","tests","test_login","","","","test_login_failure[chromium]",""
